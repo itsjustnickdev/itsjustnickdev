@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my discord bot and my bot-list.
-- 🌱 I’m currently learning Python, JavaScript
+- 🔭 I’m currently working on my discord bots and my websites.
+- 🌱 I’m currently learning JavaScript
 
 [![nickbotlcient's github stats](https://github-readme-stats.vercel.app/api?username=nickbotclient)](https://github.com/anuraghazra/github-readme-stats)
 <!--
