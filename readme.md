@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my discord bots and my websites.
 - 🌱 I’m currently learning JavaScript
 
-[![nickbotlcient's github stats](https://github-readme-stats.vercel.app/api?username=nickbotclient)](https://github.com/anuraghazra/github-readme-stats)
+[![nickdevnl's github stats](https://github-readme-stats.vercel.app/api?username=nickdevnl)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nickbotclient/nickbotclient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
