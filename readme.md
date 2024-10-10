@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on my discord bots and my websites.
 - 🌱 I’m currently learning JavaScript
 - ⚡ My hosting: https://blackforthosting.com/
+- 💖 Support my work! Buy me a [coffee](buymeacoffee.com/itsjustnickdev) ☕
 
 [![nickdevnl's github stats](https://github-readme-stats.vercel.app/api?username=nickdevnl)](https://github.com/anuraghazra/github-readme-stats)
 <!--
