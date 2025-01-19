@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about developing **Discord bots**, 
 I’m the proud owner of **Drops-IT**, a tech-focused business that drives multiple cutting-edge services and platforms:
 - **[Blackfort Hosting](https://blackforthosting.com/):** Reliable and affordable hosting solutions for all your needs.  
 - **[MagmaStream](https://github.com/Magmastream-NPM/MagmaStream):** A user-friendly Lavalink client designed for Node.js. 
-- **[Command Shield]([https://github.com/Magmastream-NPM/CommandShield](https://github.com/Command-Shield/Command-Shield-Plugin)):** A powerful and easy-to-use Minecraft plugin to block unwanted commands and protect your server from malicious actions. Prevent harmful commands like /op, /gamerule randomtickspeed, and protect against exploits such as ForceOP signs, malicious books, and more.
+- **[Command Shield](https://github.com/Magmastream-NPM/CommandShield):** A powerful and easy-to-use Minecraft plugin to block unwanted commands and protect your server from malicious actions. Prevent harmful commands like /op, /gamerule randomtickspeed, and protect against exploits such as ForceOP signs, malicious books, and more.
   
 At **Drops-IT**, our goal is to empower developers and businesses with tools that make their tech dreams a reality.  
 
